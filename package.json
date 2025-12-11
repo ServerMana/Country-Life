@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "main": "index.html",
+  "js-flags": "--expose-gc",
+  "window": {
+    "position": "center",
+    "show": true,
+    "toolbar": false,
+    "icon": "www/icon/icon.png",
+    "width": 816,
+    "height": 624,
+    "min_width": 816,
+    "min_height": 624,
+    "resizable": true,
+    "fullscreen": false,
+    "frame": true,
+    "always-on-top": false
+  }
+}
